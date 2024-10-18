@@ -7,7 +7,7 @@ import json
 
 load_dotenv()
 
-api_key = "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"
+api_key = "Set your API HERE"
 
 client = OpenAI(api_key=api_key)
 modelo = "gpt-4"
